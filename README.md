@@ -1,2 +1,4 @@
 # Hello-world
-this is my first repository
+这是我的第一个github上的仓库
+我擦，这么好使，以后啥玩意都放着了，
+不过还是要多摸索摸索
